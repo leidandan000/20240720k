@@ -1,4 +1,2 @@
-#include <iostream>
-int main()
-{
-}
+#include <stdio.h>
+
